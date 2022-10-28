@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlokDubey5905
+- 🏫 B.Tech in CSE
 - 👀 I’m interested in web developement and machine learning
 - 🌱 I’m currently learning Backend web developement
 - 📫 To reach me: alokd5905@gmail.com, http://www.linkedin.com/in/alok-dubey-5905
