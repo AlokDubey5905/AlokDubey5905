@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlokDubey5905
-- 🏫 B.Tech in CSE
-- 👀 I’m interested in web developement and machine learning
-- 🌱 I’m currently learning Backend web developement
+- 👋 Hi, I’m Alok Dubey
+- 🏫 B.Tech graduate in Computer Science and Engineering
+- 👀 I work on web developement and machine learning
+- 🌱 My skills include: Python, Machine Learning, Django, Flask, ReactJS, Version Control
 - 📫 To reach me: alokd5905@gmail.com, http://www.linkedin.com/in/alok-dubey-5905
 
 <!---
